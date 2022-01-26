@@ -14,7 +14,6 @@ Fill free to change the collection type and other components if needed.
 20 minutes for solution !!!
 
 
-
 also see here:
 
 https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-implement-a-producer-consumer-dataflow-pattern
