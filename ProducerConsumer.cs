@@ -51,7 +51,7 @@ namespace BackendExam
 
         public void Dispose()
         {
-            //  whan ready to unsubscribe...
+            //  when ready to unsubscribe...
             _subject.Dispose();
         }
     }
